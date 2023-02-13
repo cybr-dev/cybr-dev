@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cybr-dev
-- 👀 I’m interested in public ledger technology and django.
-- 🌱 I’m currently learning python.
+- 👀 I’m interested in public ledger technology and AI.
+- 🌱 I’m currently programming in python & java.
 - 💞️ I’m looking to collaborate on opensource cryptocurrency protocols..
 
 <!---
